@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Options\**" />
+    <EmbeddedResource Remove="Options\**" />
+    <None Remove="Options\**" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\APP.Data\APP.Data.csproj" />
+    <ProjectReference Include="..\APP.Repo\APP.Repo.csproj" />
+  </ItemGroup>
+</Project>

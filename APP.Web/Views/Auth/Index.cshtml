@@ -1,0 +1,55 @@
+﻿@model APP.Web.Models.LoginViewModel
+@{
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+    ViewData["Title"] = "Login";
+    var passwordError = Html.ValidationMessage("Password");
+    var ReturnUrl = (String)ViewBag.ReturnUrl;
+}
+
+
+<div class="login-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-6">
+             
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+                <div class="login-form">
+                    <div id="slide">
+                        <div class="error-message has-error col-sm-12"></div>
+                        <br /><br />
+                        <form asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" id="login">
+                            @if (@ViewBag.InvalidError == 1)
+                            {
+                                <div class="col-sm-12 col-md-8">
+                                    <span class="text-danger field-validation-error-invalid" data-valmsg-for="Password" data-valmsg-replace="true"><i class="fa fa-exclamation-triangle logininvalid"></i><span class="error">ERROR :</span> Invalid Username/Password</span>
+                                </div>
+                            }
+                            <div class="col-sm-12 col-md-8">
+                                <input asp-for="Username" class="login-user" placeholder="Username" />
+                                <span asp-validation-for="Username"></span>
+                            </div>
+                            <div class="col-sm-12 col-md-8">
+                                <input asp-for="Password" type="password" class="login-password" placeholder="Password" />
+                                <span asp-validation-for="Password"></span>
+                            </div>
+
+                            <div class="col-sm-12 col-md-8">
+                                <button type="submit" class="btn-primary btn-signin" id="login-submit" data-loading-text="<i class='fa fa-circle-o-notch fa-spin'></i> Logging in">LOGIN</button>
+                            </div>
+                            <div class="col-sm-6 col-md-8">
+                                <a asp-controller="Auth" asp-action="ForgetPassword" class="btn btn-link btn-password">Forgot your password?</a>
+                            </div>
+                        </form>
+                        <div id="confirmation-container" style="position: relative;left:300px;display: none;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .error-message {
+        color: red;
+    }
+</style>
