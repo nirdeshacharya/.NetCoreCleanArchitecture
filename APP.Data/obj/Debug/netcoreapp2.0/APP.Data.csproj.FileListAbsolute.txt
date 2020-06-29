@@ -8,6 +8,8 @@ C:\Users\lenovo\Desktop\IMS.APP\IMS.Data\obj\Debug\netcoreapp2.0\APP.Data.Assemb
 C:\Users\lenovo\Desktop\IMS.APP\IMS.Data\obj\Debug\netcoreapp2.0\APP.Data.dll
 C:\Users\lenovo\Desktop\IMS.APP\IMS.Data\obj\Debug\netcoreapp2.0\APP.Data.pdb
 C:\Users\lenovo\Desktop\APP.APP\APP.Data\bin\Debug\netcoreapp2.0\APP.Data.deps.json
+C:\Users\lenovo\Desktop\APP.APP\APP.Data\bin\Debug\netcoreapp2.0\APP.Data.runtimeconfig.json
+C:\Users\lenovo\Desktop\APP.APP\APP.Data\bin\Debug\netcoreapp2.0\APP.Data.runtimeconfig.dev.json
 C:\Users\lenovo\Desktop\APP.APP\APP.Data\bin\Debug\netcoreapp2.0\APP.Data.dll
 C:\Users\lenovo\Desktop\APP.APP\APP.Data\bin\Debug\netcoreapp2.0\APP.Data.pdb
 C:\Users\lenovo\Desktop\APP.APP\APP.Data\obj\Debug\netcoreapp2.0\APP.Data.csprojAssemblyReference.cache
@@ -16,3 +18,4 @@ C:\Users\lenovo\Desktop\APP.APP\APP.Data\obj\Debug\netcoreapp2.0\APP.Data.Assemb
 C:\Users\lenovo\Desktop\APP.APP\APP.Data\obj\Debug\netcoreapp2.0\APP.Data.AssemblyInfo.cs
 C:\Users\lenovo\Desktop\APP.APP\APP.Data\obj\Debug\netcoreapp2.0\APP.Data.dll
 C:\Users\lenovo\Desktop\APP.APP\APP.Data\obj\Debug\netcoreapp2.0\APP.Data.pdb
+C:\Users\lenovo\Desktop\APP.APP\APP.Data\obj\Debug\netcoreapp2.0\APP.Data.genruntimeconfig.cache

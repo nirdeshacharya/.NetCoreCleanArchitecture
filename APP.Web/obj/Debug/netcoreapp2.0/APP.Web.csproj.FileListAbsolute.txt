@@ -1,3 +1,7 @@
+C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.csprojAssemblyReference.cache
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\bin\Debug\netcoreapp2.0\appsettings.json
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\bin\Debug\netcoreapp2.0\bower.json
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
@@ -12,10 +16,6 @@ C:\Users\lenovo\Desktop\APP.APP\APP.Web\bin\Debug\netcoreapp2.0\APP.Services.dll
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\bin\Debug\netcoreapp2.0\APP.Data.pdb
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\bin\Debug\netcoreapp2.0\APP.Repo.pdb
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\bin\Debug\netcoreapp2.0\APP.Services.pdb
-C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.csprojAssemblyReference.cache
-C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.csproj.CoreCompileInputs.cache
-C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.AssemblyInfoInputs.cache
-C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.AssemblyInfo.cs
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.csproj.CopyComplete
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.dll
 C:\Users\lenovo\Desktop\APP.APP\APP.Web\obj\Debug\netcoreapp2.0\APP.Web.pdb
